@@ -120,6 +120,7 @@ const App = () => {
     return (
         <Container className="App">
             <Title order={1}>Simple-Rrule </Title>
+
             <Space h="lg" />
             <Divider my="sm" />
             <FormProvider {...methods}>

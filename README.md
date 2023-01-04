@@ -1,2 +1,9 @@
 # simple-rrule-web
-simple rrule tests and docs site
+
+Simple rRule web usage project
+
+https://simple-rrule-web.vercel.app/
+
+# simple-rrule
+
+https://github.com/jonasgedrat/simple-rrule
